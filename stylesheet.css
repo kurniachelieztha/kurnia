@@ -1,0 +1,26 @@
++ {
+box-sizing: border-box;
+}
+
+body {
+margin: 0;
+font-family: "Lucida Grande";
+}
+
+a {
+text-decoration: none;
+}
+
+.clear {
+clear: left;
+}
+
+.container {
+max-width: 1170px;
+padding: 0 15px;
+margin: 0 auto;
+}
+
+.top-wrapper {
+padding: 180px 0 100px 0;
+background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
